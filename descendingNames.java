@@ -66,5 +66,7 @@ public class descendingNames
                 System.out.println(name1);
             }
         }
+        console.close();
     }
+    
 }

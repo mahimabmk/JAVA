@@ -21,5 +21,7 @@ public class absoluteValue
 
         // Display absolute value of number.        
         System.out.println("Absolute value: " + number);
+
+        console.close();
     }
 }

@@ -36,5 +36,6 @@ public class largestNumber {
         
         }
         System.out.println(num);
+        console.close();
     }
 }

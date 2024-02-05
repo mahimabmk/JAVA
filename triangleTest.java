@@ -20,5 +20,7 @@ public class triangleTest {
         else{
             System.out.println("Not a Triangle");
         }
+
+        console.close();
     }
 }

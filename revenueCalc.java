@@ -21,6 +21,8 @@ public class revenueCalc {
 
     System.out.println("The discount is: "+discount);
     System.out.println("The revenue is: "+revenue);
+
+    console.close();
     
     }
     

@@ -12,5 +12,7 @@ public class oddEvenCheck {
             System.out.println("The number is odd.");
         }
 
+        scn.close();
+
     }
 }

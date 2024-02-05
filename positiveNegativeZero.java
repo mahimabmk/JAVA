@@ -17,7 +17,7 @@ public class positiveNegativeZero {
         else{
             System.out.println("Zero");
         }
-
+        console.close();
         
     }
 }
