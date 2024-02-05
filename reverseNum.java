@@ -18,5 +18,6 @@ public class reverseNum {
             temp /= 10;
         }
         System.out.println(reverse);
+        console.close();
     }
 }

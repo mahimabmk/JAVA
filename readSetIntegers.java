@@ -23,5 +23,6 @@ public class readSetIntegers {
         }
         System.out.println("Even: "+even);
         System.out.println("Odd: "+odd);
+        console.close();
     }
 }

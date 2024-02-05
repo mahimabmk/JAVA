@@ -16,5 +16,6 @@ public class powerDemo {
             result = result * num;
         }
         System.out.println(result);
+        console.close();
     }
 }
