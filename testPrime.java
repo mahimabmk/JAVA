@@ -21,5 +21,6 @@ public class testPrime {
         else{
             System.out.println("Not Prime");
         }
+        console.close();
     }
 }

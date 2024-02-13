@@ -14,5 +14,6 @@ public class numberIncreasingPyramid {
             }
             System.out.println("");
         }
+        console.close();
     }
 }

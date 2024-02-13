@@ -29,5 +29,6 @@ public class countNumber {
         System.out.println("Zero: "+zero);
         System.out.println("Positive: "+positive);
         System.out.println("Negative: "+negative);
+        console.close();
     }
 }

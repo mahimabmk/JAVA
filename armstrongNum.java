@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 public class armstrongNum {
     public static void main(String[] args) {

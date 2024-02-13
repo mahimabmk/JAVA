@@ -14,5 +14,6 @@ public class reverseRightPyramid {
             }
             System.out.println("");
         }
+        console.close();
     }
 }

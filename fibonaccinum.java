@@ -21,5 +21,6 @@ public class fibonaccinum {
             first = second;
             second= next;
         }
+        console.close();
     }
 }

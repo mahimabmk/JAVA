@@ -14,5 +14,6 @@ public class reverseNumberIncreasingPyramid {
             }
             System.out.println("");
         }
+        console.close();
     }
 }

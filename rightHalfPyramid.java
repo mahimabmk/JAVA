@@ -15,5 +15,6 @@ public class rightHalfPyramid {
             }
             System.out.println("");
         }
+        console.close();
     }
 }

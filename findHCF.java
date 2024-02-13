@@ -32,5 +32,6 @@ public class findHCF
         }while(remainder != 0);
 
         System.out.println("HCF: " + hcf);
+        console.close();
     }  
 }

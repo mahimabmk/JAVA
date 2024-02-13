@@ -26,5 +26,6 @@ public class sumAgain
             System.out.println();
             
         }while(choice=='y' || choice == 'Y');
+        console.close();
     }  
 } 

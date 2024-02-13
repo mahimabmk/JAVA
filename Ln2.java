@@ -20,5 +20,7 @@ public class Ln2 {
         }
 
         System.out.println(sum);
+
+        console.close();
     }
 }
